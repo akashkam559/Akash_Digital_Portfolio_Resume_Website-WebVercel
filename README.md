@@ -1,9 +1,11 @@
 # Personal Portfolio Website
+This repository contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.
 
 https://akash-digital-portfolio-resume-website-web-vercel.vercel.app/
 https://vercel.com/akash-kumars-projects-bbda86a7
 
-This repository contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.
+
+![porfolio view summary](https://github.com/akashkam559/Akash_Digital_Portfolio_Resume_Website-WebVercel/assets/41515202/bafed04f-3973-49ff-92b3-08bb5bf92f27)
 
 ## Description
 
@@ -44,4 +46,4 @@ Thank you for visiting my personal portfolio repository! I hope you find it info
 .
 .
 
-![porfolio view summary](https://github.com/akashkam559/Akash_Digital_Portfolio_Resume_Website-WebVercel/assets/41515202/bafed04f-3973-49ff-92b3-08bb5bf92f27)
+
