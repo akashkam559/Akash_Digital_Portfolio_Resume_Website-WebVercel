@@ -44,4 +44,4 @@ Thank you for visiting my personal portfolio repository! I hope you find it info
 .
 .
 
-![porfolio view summary](https://github.com/akashkam559/Akash_Digital_Portfolio_Resume_Website/assets/41515202/91d4f8be-50ed-44fa-b9da-d77884b7dab1)
+![porfolio view summary](https://github.com/akashkam559/Akash_Digital_Portfolio_Resume_Website-WebVercel/assets/41515202/bafed04f-3973-49ff-92b3-08bb5bf92f27)
