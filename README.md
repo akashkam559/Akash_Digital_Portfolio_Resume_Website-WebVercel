@@ -6,14 +6,15 @@ https://vercel.com/akash-kumars-projects-bbda86a7
 
 
 # WHITE THEME
-![porfolio view summary](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/8617b69f-9d0a-4803-8cd5-e77bffbf0074)
+![1 1- white - porfolio view summary](https://github.com/akashkam559/Akash_Digital_Portfolio_Resume_Website-WebVercel/assets/41515202/8fc35930-e7f5-4b22-9067-55c51343ac49)
+
 
 # BLUE THEME
-![1 2- blue - porfolio view summary](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/214f2f97-6c8a-4239-b03a-8e046a556587)
+![1 2- blue - porfolio view summary](https://github.com/akashkam559/Akash_Digital_Portfolio_Resume_Website-WebVercel/assets/41515202/96392e5c-c5d3-418d-843b-37f1e80f261b)
 
-![2- hi am](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/5a276c11-8b8d-4883-a929-7d803861b2a9)
+![2- hi am](https://github.com/akashkam559/Akash_Digital_Portfolio_Resume_Website-WebVercel/assets/41515202/8bb366e9-71bb-4483-a37e-cec2e427318d)
 
-![3-about](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/3de4deaa-73ac-4022-b6f5-3714260f7d12)
+![3-about](https://github.com/akashkam559/Akash_Digital_Portfolio_Resume_Website-WebVercel/assets/41515202/2e4a30ba-90ec-4cff-8195-296c0440feb6)
 
 
 ## Description
@@ -55,23 +56,17 @@ Thank you for visiting my personal portfolio repository! I hope you find it info
 .
 .
 .
+![4-skills](https://github.com/akashkam559/Akash_Digital_Portfolio_Resume_Website-WebVercel/assets/41515202/3d7f4f67-7d88-408e-9148-70bf89524bc4)
 
-![4-skills](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/daa3c411-8097-4865-a60b-6e298516c479)
+![5-education](https://github.com/akashkam559/Akash_Digital_Portfolio_Resume_Website-WebVercel/assets/41515202/d9f71fab-abbb-456e-ab35-10749cc19da5)
 
-![5-education](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/9eb6d9bc-c1c1-4268-9a6a-64209260db79)
+![6-exp](https://github.com/akashkam559/Akash_Digital_Portfolio_Resume_Website-WebVercel/assets/41515202/842ee82a-f60d-4cbb-84d8-36ff812a0a1e)
 
-![6-exp](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/657eee30-58c7-45c8-bc46-02a7142d625f)
+![7-project](https://github.com/akashkam559/Akash_Digital_Portfolio_Resume_Website-WebVercel/assets/41515202/dd0c56ff-84ad-4ea2-b4dd-55fca952c063)
 
-![7-project](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/d8d01b00-ee3d-4bbc-ba36-839d0ced3799)
+![8-contact](https://github.com/akashkam559/Akash_Digital_Portfolio_Resume_Website-WebVercel/assets/41515202/664e9bab-68ac-4200-a247-86052b504195)
 
-![8-contact](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/3c50a59b-665a-4cec-9818-5f30afd9635f)
-
-![9-made with love](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/26245aeb-2782-4c3d-aea8-daf0c0e87f57)
-
-
-
-
-
+![9-made with love](https://github.com/akashkam559/Akash_Digital_Portfolio_Resume_Website-WebVercel/assets/41515202/28148725-5d78-47cc-835b-a689a8853226)
 
 
 
