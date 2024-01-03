@@ -1,12 +1,20 @@
 # Personal Portfolio Website
 This repository contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.
 
-https://akash-digital-portfolio-resume-website-web-vercel.vercel.app/
-
+Demo Deplyed Link ->  https://akash-digital-portfolio-resume-website-web-vercel.vercel.app/
 https://vercel.com/akash-kumars-projects-bbda86a7
 
 
-![porfolio view summary](https://github.com/akashkam559/Akash_Digital_Portfolio_Resume_Website-WebVercel/assets/41515202/bafed04f-3973-49ff-92b3-08bb5bf92f27)
+# WHITE THEME
+![porfolio view summary](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/8617b69f-9d0a-4803-8cd5-e77bffbf0074)
+
+# BLUE THEME
+![1 2- blue - porfolio view summary](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/214f2f97-6c8a-4239-b03a-8e046a556587)
+
+![2- hi am](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/5a276c11-8b8d-4883-a929-7d803861b2a9)
+
+![3-about](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/3de4deaa-73ac-4022-b6f5-3714260f7d12)
+
 
 ## Description
 
@@ -46,5 +54,33 @@ Thank you for visiting my personal portfolio repository! I hope you find it info
 .
 .
 .
+.
+
+![4-skills](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/daa3c411-8097-4865-a60b-6e298516c479)
+
+![5-education](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/9eb6d9bc-c1c1-4268-9a6a-64209260db79)
+
+![6-exp](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/657eee30-58c7-45c8-bc46-02a7142d625f)
+
+![7-project](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/d8d01b00-ee3d-4bbc-ba36-839d0ced3799)
+
+![8-contact](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/3c50a59b-665a-4cec-9818-5f30afd9635f)
+
+![9-made with love](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/26245aeb-2782-4c3d-aea8-daf0c0e87f57)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
